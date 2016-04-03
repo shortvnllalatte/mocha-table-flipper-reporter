@@ -9,7 +9,7 @@ mocha-table-flipper-reporter
 
 Because failed tests suck.
 
-![Mocha Table Flipper Reporter for Mocha](https://raw.githubusercontent.com/dgarlitt/image-repo/master/karma-nyan-reporter/v0.2.2/karma-nyan-reporter.gif "Mocha Table Flipper Reporter for Mocha")
+<!--![Mocha Table Flipper Reporter for Mocha](https://raw.githubusercontent.com/shortvnllalatte/image-repo/master/mocha-table-flipper-reporter/v0.1.0/mocha-table-flipper-reporter.gif "Mocha Table Flipper Reporter for Mocha")
 
 Installation
 ========
@@ -27,3 +27,4 @@ Now, run your tests and enjoy:
 ```sh
 mocha --reporter mocha-table-flipper-reporter
 ```
+-->
