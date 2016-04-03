@@ -9,7 +9,7 @@ mocha-table-flipper-reporter
 
 Because failed tests suck.
 
-![Mocha Table Flipper Reporter for Mocha](https://cloud.githubusercontent.com/assets/9028128/14235572/0d3f2dbe-f9c8-11e5-9164-0b38f715702d.gif "Mocha Table Flipper Reporter for Mocha")
+![Mocha Table Flipper Reporter for Mocha](https://cloud.githubusercontent.com/assets/9028128/14235663/3cf6cdbc-f9ca-11e5-963d-ddaa448c6b36.gif "Mocha Table Flipper Reporter for Mocha")
 
 Inspired by [table_flipper](https://github.com/iridakos/table_flipper) by @iridakos.
 
