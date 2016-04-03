@@ -13,7 +13,6 @@ Because failed tests suck.
 
 Inspired by [table_flipper](https://github.com/iridakos/table_flipper) by @iridakos.
 
-<!--
 Installation
 ========
 
@@ -30,4 +29,3 @@ Now, run your tests and enjoy:
 ```sh
 mocha --reporter mocha-table-flipper-reporter
 ```
--->
