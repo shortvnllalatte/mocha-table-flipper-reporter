@@ -1,22 +1,22 @@
 {
   "name": "mocha-table-flipper-reporter",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "description": "Mocha reporter that adds table flipper ascii to failed test logs.",
   "keywords": [
-      "mocha",
-      "reporter",
-      "table-flipper",
-      "ascii"
+    "mocha",
+    "reporter",
+    "table-flipper",
+    "ascii"
   ],
   "main": "index.js",
   "author": "Leah Whittaker (leahcwhittaker@gmail.com)",
   "license": "MIT",
   "repository": {
-      "type": "git",
-      "url": "https://github.com/shortvnllalatte/mocha-table-flipper-reporter.git"
+    "type": "git",
+    "url": "https://github.com/shortvnllalatte/mocha-table-flipper-reporter.git"
   },
   "bugs": {
-      "url": "https://github.com/shortvnllalatte/mocha-table-flipper-reporter/issues"
+    "url": "https://github.com/shortvnllalatte/mocha-table-flipper-reporter/issues"
   },
   "dependencies": {
     "mocha": "^2.4.5"
