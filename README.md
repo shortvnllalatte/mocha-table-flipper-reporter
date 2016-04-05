@@ -11,6 +11,10 @@ Because failed tests suck.
 
 ![Mocha Table Flipper Reporter for Mocha](https://cloud.githubusercontent.com/assets/9028128/14235663/3cf6cdbc-f9ca-11e5-963d-ddaa448c6b36.gif "Mocha Table Flipper Reporter for Mocha")
 
+And if all tests pass..
+
+![Mocha Table Flipper Reporter for Mocha](https://cloud.githubusercontent.com/assets/9028128/14301472/d4e43b52-fb5d-11e5-8c21-f8dface14be4.gif "Mocha Table Flipper Reporter for Mocha")
+
 Inspired by [table_flipper](https://github.com/iridakos/table_flipper) by @iridakos.
 
 Installation
