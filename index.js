@@ -9,6 +9,7 @@ function TableFlipper(runner) {
   Base.call(this, runner);
 
   var self = this;
+  var failures = 0;
 
   runner.on('start', function() {
     console.log('\n');
@@ -19,9 +20,14 @@ function TableFlipper(runner) {
     console.log(Base.color('error message', 'Error: ' + err.message));
     console.log(Base.color('bright fail', '(╯°□°）╯︵ ┻━┻'));
     console.log('\n');
+    failures++;
   });
 
   runner.on('end', function() {
+    if(failures === 0) {
+      console.log(Base.color('bright pass', 'All tests have passed.'));
+      console.log(Base.color('bright pass', '(☞ﾟ∀ﾟ)☞ :･ﾟ✧･ﾟ ┬─┬'))
+    }
     console.log('\n');
     self.epilogue();
   });
